@@ -15,4 +15,4 @@ Hey there! I'm Ankith - a developer focused on building data engineering end-to-
 
 ## 🤝 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/ankithtn/) • [Email](ankithtn2003@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ankithtn/) • [Email](mailto:ankithtn2003@gmail.com)
