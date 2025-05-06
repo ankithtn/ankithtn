@@ -12,3 +12,7 @@ Hey there! I'm Ankith - a developer focused on building data engineering end-to-
 **Backend:** FastAPI, Flask, REST APIs  
 **Cloud & Infra:** AWS (S3, EC2, Lambda), Git  
 **Databases:** PostgreSQL, MySQL, Snowflake
+
+## 🤝 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/ankithtn/) • [Email](ankithtn2003@gmail.com)
