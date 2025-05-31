@@ -7,7 +7,7 @@ Hey there! I'm Ankith - a developer focused on building data engineering end-to-
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, SQL  
+**Languages:** Python, Java, SQL  
 **Tools & Frameworks:** Apache Spark, Airflow, dbt, Docker  
 **Backend:** FastAPI, Flask, REST APIs  
 **Cloud & Infra:** AWS (S3, EC2, Lambda), Git  
