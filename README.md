@@ -2,7 +2,7 @@
 <br>
 
 ##  👨‍💻 About Me
-Hey there! I'm Ankith - a developer focused on building AI and Backend systems. I'm currently sharpening my skills in AI Agents, RAG, Distributed Systems and backend.
+Hey there! I'm Ankith - a developer focused on building AI and Backend systems. I'm currently sharpening my skills in AI Agents, RAG, Distributed and Backend Systems  .
 <br>
 
 ## 🛠️ Tech Stack
