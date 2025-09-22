@@ -1,4 +1,4 @@
-<img src="https://github.com/ankithtn/ankithtn/blob/main/github_banner1.png" alt="banner" width = 1000 />
+<img src="https://github.com/ankithtn/ankithtn/blob/main/github_banner0.png" alt="banner" width = 1000 />
 <br>
 
 ##  👨‍💻 About Me
