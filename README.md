@@ -2,7 +2,7 @@
 <br>
 
 ##  👨‍💻 About Me
-Hey there! I'm Ankith - a developer focused on building data engineering end-to-end pipelines and backend systems. I work with python, SQL, Apache Spark, and other tools including cloud(AWS). I'm currently sharpening my skills in distributed systems, real-time processing, and RESTful API development.
+Hey there! I'm Ankith - a developer focused on building AI and Backend systems. I'm currently sharpening my skills in AI Agents, RAG, Distributed Systems and backend.
 <br>
 
 ## 🛠️ Tech Stack
